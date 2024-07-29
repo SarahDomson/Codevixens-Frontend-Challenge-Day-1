@@ -6,7 +6,7 @@
 # Instructions:
 * Elements to Include: Text input, password input, radio buttons, checkboxes, a dropdown menu, and a submit button.
 
-#Learning Objectives: HTML forms, input types, form structure.
+# Learning Objectives: HTML forms, input types, form structure.
 
 # Learning Session:
 
